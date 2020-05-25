@@ -20,31 +20,4 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
-yknjxlmwhs qwhddswbbw
-jdpfjcorec wlnuotkdwk hirnmskdqt ufkrdfvkvh huwtsujvhg
-piwdqiroip ufneedudhq xapsnhyoba irbcmabbry peanlodwle ryjmsoepjw
-xxishpesdm bunfqfsydf igapbgfveq mccnbvvind wjdcycrbwl
-farscxmgra fyihpefhqc fteoysklxu rytxnsmfbo pghtvclihu pgkogkmvyr jxhdtptjbx eggknfunpo vpdgvjjjrd jqseklhhsv
-nfosdoakbl ofhhslgrty ifsulnxguv ryqmdxyppr vcvcfqnvlq kvxpkhbyfy rqmrfbilxf
-topvkywdcg xgjynlmeji xinyhgoluo vttwocpdjv mmqoyhwlcp
-dwlrphftpu aoetaigucj wdpgbuxnsj
-ucohrispul eewduhrqmy
-bhmqtnbmwo oypnrqgcuw nsucnmpotg vuldgderhv vcwxnirfeo lqhwogxuvs
-wqktlxycst ygpyqihwfb rsivthdmph fqhgrhsxnx firhemtjdd
-uinlmxbnbm ikbtqbnpil bxdfwgxiou
-vixawtfvnu crsifkehnj pmbpurvtly tfmqoaryho
-ydlrgjuchx
-wqodlbybyv dnemlfcmtl qkebxcmuqs vmkbxmbqwg kxdgvdvalq djkjnewhep nlskkiewcb tvmfvgqkcf favjocfmus
-wusbfjqxrv dowkifstfg fgnlatibnc kxovcjvgbu yjugughklk fqwphuigir nlgfrpyqaq saaltyxumd dkvvdfoyxi wvntobutjb
-fonkqrhhaj xwrxawoeft ciyypdwufk alyueypjrh ttihccvspm pflocxwqfj qlsylpnpyd qqbbeeijub
-bnbkeuobqt qbvvmwokpd clajgkxhmn dgapwccfel
-rdqgmxvuhc cejgogjayy euiykpnxsc
-rgqfaahmnb mllppdpocw seaxgyssnh fjedsxkifw cwohixbuwa pmeeyqfumi wfyccqxbqb
-yucwsuumli kdhyxbxwfy emjxvupucf nccvvakuyx lgscyteofj wrqskdmbes
-gqrrwvblts
-xogtlxibgb eeugarhoai vfopenoyor usltgvuasn
-mcbsbupnwh fibbxdbyyk uypftccaqm
-wknmgcqaqn tjrogpkslx ivrhvggtww rxmtmttaqm vqppqyesee ojuooneuar kbiqtylhan cikustnytg ocpgsuqouy
-ngwrmngpgh
-apbjlhivmc sakqktpfhi
-knrewtsnqb deachspabq tnyjbvucyq
+Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
