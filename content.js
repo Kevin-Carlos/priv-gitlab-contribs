@@ -1,1 +1,1 @@
-console.log("pqipe")
+console.log("drity")
